@@ -3,6 +3,8 @@ import 'package:todo_list_lab1/constants/colors.dart';
 import 'package:todo_list_lab1/models/todo.dart';
 import 'package:todo_list_lab1/widgets/todo_item.dart';
 
+
+//home
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
 

@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+//common colours used in the application
 const Color todoRed = Color(0xFFDA4040);
 const Color todoBlue = Color(0xFF5f52EE);
 
